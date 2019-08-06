@@ -1,2 +1,2 @@
 # python_learn
-learn python
+learn python2
